@@ -34,7 +34,8 @@ A web-based implementation of the classic "Simon Says" memory game. Test your me
 
 ## Screenshots
 
-![Simon Says Game Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Screenshot 2025-06-29 150033](https://github.com/user-attachments/assets/045ce174-fc6f-494d-b24a-8d266d2b5a63)
+
 
 ## Getting Started
 
